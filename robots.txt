@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buburkacangijo.my.id/sitemap.xml
